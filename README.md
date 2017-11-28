@@ -34,8 +34,7 @@ wget -O 16x64.sh https://github.com/taohumyai/core/blob/master/16x64.sh?raw=true
 _____________________________________
 
 ลบ Core-Network ใช้คำสั่ง
-sudo apt-get --purge remove core-daemon
-sudo apt-get --purge remove core-gui
+sudo apt-get --purge remove core-daemon core-gui
 
 _____________________________________
 
